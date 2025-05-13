@@ -10,3 +10,4 @@ wheels/
 .venv
 .llms
 .env
+*:Zone.Identifier
